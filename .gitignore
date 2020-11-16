@@ -1,0 +1,8 @@
+# Output files
+output
+
+# Ignore visual studio code files
+.vscode
+
+# Ignore Clion files
+.idea
